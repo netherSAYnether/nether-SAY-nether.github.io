@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+h1, p {
+  font-family: Garamond, serif;
+  color: #696969;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 16px;
+}
+  
+  
